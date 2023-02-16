@@ -1,0 +1,7 @@
+{
+    "name": "sanity-monorepo-example",
+    "description": "An example workspace demonstrating how to manage a Sanity Studio in a monorepo",
+    "author": "Noah Gentile <noah@sanity.io>",
+    "private": true,
+    "workspaces": ["apps/*", "packages/*"]
+}
