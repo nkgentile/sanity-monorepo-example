@@ -1,0 +1,15 @@
+{
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": false
+    },
+    "editor.defaultFormatter": "dbaeumer.vscode-eslint",
+    "editor.formatOnSave": false,
+
+    "eslint.format.enable": false,
+    "eslint.lintTask.enable": true,
+    "eslint.onIgnoredFiles": "warn",
+    "eslint.workingDirectories": [
+        { "pattern": "./apps/*/" },
+        { "pattern": "./packages/*/" }
+    ]
+}
