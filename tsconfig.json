@@ -3,6 +3,15 @@
     "references": [
         {
             "path": "./apps/studio"
+        },
+        {
+            "path": "./packages/sanity/project"
+        },
+        {
+            "path": "./packages/sanity/production-url"
+        },
+        {
+            "path": "./packages/sanity/preview-pane"
         }
     ],
 }

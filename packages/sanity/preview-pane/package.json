@@ -1,0 +1,10 @@
+{
+    "name": "@example/preview-pane",
+    "type": "module",
+    "main": "src/index.tsx",
+    "types": "src/index.tsx",
+    "dependencies": {
+        "@example/production-url": "*",
+        "suspend-react": "^0.0.9"
+    }
+}
